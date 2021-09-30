@@ -5,21 +5,7 @@
       "nameTittle": "Advanture",
       "description": "Star Advanture",
       "currentAmount" : 1,
-      "Reward": 1000,
-      "artwork" : "Group 3958"
-    },
-    {
-      "nameTittle": "Kill Monster",
-      "description": "Kill Demon",
-      "currentAmount" : 1,
-      "Reward": 100,
-      "artwork" : "Group 3958"
-    },
-    {
-      "nameTittle": "Saving Money",
-      "description": "Get Gold 10000",
-      "currentAmount" : 1,
-      "Reward": 10000,
+      "reward": 1000,
       "artwork" : "Group 3958"
     }
   ],
@@ -30,21 +16,7 @@
       "nameTittle": "Advanture",
       "description": "Star Advanture",
       "currentAmount" : 1,
-      "Reward": 1000,
-      "artwork" : "Group 3958"
-    },
-    {
-      "nameTittle": "Kill Monster",
-      "description": "Kill Demon",
-      "currentAmount" : 1,
-      "Reward": 100,
-      "artwork" : "Group 3958"
-    },
-    {
-      "nameTittle": "Saving Money",
-      "description": "Get Gold 10000",
-      "currentAmount" : 1,
-      "Reward": 10000,
+      "reward": 1000,
       "artwork" : "Group 3958"
     }
   ]
