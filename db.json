@@ -4,7 +4,7 @@
     "descriptionMision" : "Mission for daily",
     "daily": [
       {
-        "nameTittle": "Advanture",
+        "nameTittle": "[Advanture]",
         "description": "Star Advanture",
         "currentAmount" : 1,
         "reward": 1000,
