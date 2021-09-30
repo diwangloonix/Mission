@@ -1,5 +1,7 @@
 {
-  "Daily":
+  "id" : 1,
+  "descriptionMision" : "Mission for daily",
+  "daily": [
     {
       "nameTittle": "Advanture",
       "description": "Star Advanture",
@@ -7,4 +9,5 @@
       "reward": 1000,
       "artwork" : "Group 3958"
     }
+  ]
 }
