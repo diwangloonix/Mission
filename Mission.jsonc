@@ -1,0 +1,51 @@
+{
+  "Daily":
+  [
+    {
+      "Name": "Advanture",
+      "Desc": "Star Advanture",
+      "CurrentAmount" : 1
+      "Reward": 1000
+      "Artwork" : "Group 3958"
+    },
+    {
+      "Name": "Kill Monster",
+      "Desc": "Kill Demon",
+      "CurrentAmount" : 1
+      "Reward": 100
+      "Artwork" : "Group 3958"
+    },
+    {
+      "Name": "Saving Money",
+      "Desc": "Get Gold 10000",
+      "CurrentAmount" : 1
+      "Reward": 10000
+      "Artwork" : "Group 3958"
+    }
+  ],
+
+  "Weekly":
+  [
+    {
+      "Name": "Advanture",
+      "Desc": "Star Advanture",
+      "CurrentAmount" : 1
+      "Reward": 1000
+      "Artwork" : "Group 3958"
+    },
+    {
+      "Name": "Kill Monster",
+      "Desc": "Kill Demon",
+      "CurrentAmount" : 1
+      "Reward": 100
+      "Artwork" : "Group 3958"
+    },
+    {
+      "Name": "Saving Money",
+      "Desc": "Get Gold 10000",
+      "CurrentAmount" : 1
+      "Reward": 10000
+      "Artwork" : "Group 3958"
+    }
+  ]
+}
