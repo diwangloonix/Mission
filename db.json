@@ -2,50 +2,50 @@
   "Daily":
   [
     {
-      "Name": "Advanture",
-      "Desc": "Star Advanture",
-      "CurrentAmount" : 1,
+      "nameTittle": "Advanture",
+      "description": "Star Advanture",
+      "currentAmount" : 1,
       "Reward": 1000,
-      "Artwork" : "Group 3958"
+      "artwork" : "Group 3958"
     },
     {
-      "Name": "Kill Monster",
-      "Desc": "Kill Demon",
-      "CurrentAmount" : 1,
+      "nameTittle": "Kill Monster",
+      "description": "Kill Demon",
+      "currentAmount" : 1,
       "Reward": 100,
-      "Artwork" : "Group 3958"
+      "artwork" : "Group 3958"
     },
     {
-      "Name": "Saving Money",
-      "Desc": "Get Gold 10000",
-      "CurrentAmount" : 1,
+      "nameTittle": "Saving Money",
+      "description": "Get Gold 10000",
+      "currentAmount" : 1,
       "Reward": 10000,
-      "Artwork" : "Group 3958"
+      "artwork" : "Group 3958"
     }
   ],
 
   "Weekly":
   [
     {
-      "Name": "Advanture",
-      "Desc": "Star Advanture",
-      "CurrentAmount" : 1,
+      "nameTittle": "Advanture",
+      "description": "Star Advanture",
+      "currentAmount" : 1,
       "Reward": 1000,
-      "Artwork" : "Group 3958"
+      "artwork" : "Group 3958"
     },
     {
-      "Name": "Kill Monster",
-      "Desc": "Kill Demon",
-      "CurrentAmount" : 1,
+      "nameTittle": "Kill Monster",
+      "description": "Kill Demon",
+      "currentAmount" : 1,
       "Reward": 100,
-      "Artwork" : "Group 3958"
+      "artwork" : "Group 3958"
     },
     {
-      "Name": "Saving Money",
-      "Desc": "Get Gold 10000",
-      "CurrentAmount" : 1,
+      "nameTittle": "Saving Money",
+      "description": "Get Gold 10000",
+      "currentAmount" : 1,
       "Reward": 10000,
-      "Artwork" : "Group 3958"
+      "artwork" : "Group 3958"
     }
   ]
 }
