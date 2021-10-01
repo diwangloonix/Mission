@@ -1,7 +1,5 @@
 {
   "Mission": {
-    "id" : 1,
-    "descriptionMision" : "Mission for daily",
     "daily": [
       {
         "nameTittle": "[Advanture]",
